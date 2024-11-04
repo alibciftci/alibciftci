@@ -5,7 +5,7 @@
 
 </h1>
 
-- 🔭 I currently work as an Software and Automation Engineer at Coşkunöz Metal Form.
+- 🔭 I currently work as an Software Engineer.
 - 💬 Ask me about ...
 - 📝 Mail :   ali.bciftci57@gmail.com
 -->
